@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WADE-PC</Machine>
+    <WindowsUser>Wade</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\Skydrive\Projects\GameMaker\Published\ECHORaven\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\ECHORaven.html">
+      <PackagePath>ECHORaven.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\ECHORaven.js">
+      <PackagePath>html5game\ECHORaven.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\js\default.js">
+      <PackagePath>Windows8\js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\js\LiveTile.js">
+      <PackagePath>Windows8\js\LiveTile.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\js\Loading.js">
+      <PackagePath>Windows8\js\Loading.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\js\AppBar.js">
+      <PackagePath>Windows8\js\AppBar.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\js\Licensing.js">
+      <PackagePath>Windows8\js\Licensing.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\js\MultiTouch.js">
+      <PackagePath>Windows8\js\MultiTouch.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\js\Purchases.js">
+      <PackagePath>Windows8\js\Purchases.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\js\SettingsCharm.js">
+      <PackagePath>Windows8\js\SettingsCharm.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\js\Share.js">
+      <PackagePath>Windows8\js\Share.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\js\Search.js">
+      <PackagePath>Windows8\js\Search.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\js\SecondaryTile.js">
+      <PackagePath>Windows8\js\SecondaryTile.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\zip-js\deflate.js">
+      <PackagePath>Windows8\zip-js\deflate.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\zip-js\inflate.js">
+      <PackagePath>Windows8\zip-js\inflate.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\zip-js\mime-types.js">
+      <PackagePath>Windows8\zip-js\mime-types.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\zip-js\zip-fs.js">
+      <PackagePath>Windows8\zip-js\zip-fs.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\zip-js\zip.js">
+      <PackagePath>Windows8\zip-js\zip.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\ECHORaven_texture_2.png">
+      <PackagePath>html5game\ECHORaven_texture_2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\ECHORaven_texture_1.png">
+      <PackagePath>html5game\ECHORaven_texture_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\ECHORaven_texture_0.png">
+      <PackagePath>html5game\ECHORaven_texture_0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF1.png">
+      <PackagePath>html5game\particles\IDR_GIF1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF10.png">
+      <PackagePath>html5game\particles\IDR_GIF10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF11.png">
+      <PackagePath>html5game\particles\IDR_GIF11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF12.png">
+      <PackagePath>html5game\particles\IDR_GIF12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF13.png">
+      <PackagePath>html5game\particles\IDR_GIF13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF14.png">
+      <PackagePath>html5game\particles\IDR_GIF14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF15.png">
+      <PackagePath>html5game\particles\IDR_GIF15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF2.png">
+      <PackagePath>html5game\particles\IDR_GIF2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF3.png">
+      <PackagePath>html5game\particles\IDR_GIF3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF4.png">
+      <PackagePath>html5game\particles\IDR_GIF4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF5.png">
+      <PackagePath>html5game\particles\IDR_GIF5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF6.png">
+      <PackagePath>html5game\particles\IDR_GIF6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF7.png">
+      <PackagePath>html5game\particles\IDR_GIF7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF8.png">
+      <PackagePath>html5game\particles\IDR_GIF8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\particles\IDR_GIF9.png">
+      <PackagePath>html5game\particles\IDR_GIF9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\images\logo.png">
+      <PackagePath>Windows8\images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\images\widelogo.png">
+      <PackagePath>Windows8\images\widelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\images\smalllogo.png">
+      <PackagePath>Windows8\images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\images\splashscreen.png">
+      <PackagePath>Windows8\images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\images\storelogo.png">
+      <PackagePath>Windows8\images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\snd_explosion.mp3">
+      <PackagePath>html5game\snd_explosion.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\snd_track.mp3">
+      <PackagePath>html5game\snd_track.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\html5game\snd_laser.mp3">
+      <PackagePath>html5game\snd_laser.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\css\default.css">
+      <PackagePath>Windows8\css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wade\AppData\Local\Temp\gm_ttt_53704\gm_ttt_64803\Windows8\data\PurchaseLicenceProxy.xml">
+      <PackagePath>Windows8\data\PurchaseLicenceProxy.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\Skydrive\Projects\GameMaker\Published\ECHORaven\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
