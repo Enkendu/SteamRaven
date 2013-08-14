@@ -80,7 +80,6 @@
     <object>objects\obj_PU_bulletspeed</object>
     <object>objects\obj_PU_health</object>
     <object>objects\obj_ui</object>
-    <object>objects\obj_boss1</object>
     <object>objects\obj_boss_bullet</object>
     <object>objects\obj_menu</object>
     <object>objects\obj_pause</object>
@@ -108,6 +107,12 @@
       <object>objects\obj_level3</object>
       <object>objects\obj_level4</object>
       <object>objects\obj_level5</object>
+    </objects>
+    <objects name="enemy's">
+      <objects name="bosses">
+        <object>objects\obj_boss2</object>
+        <object>objects\obj_boss1</object>
+      </objects>
     </objects>
   </objects>
   <timelines name="timelines">
