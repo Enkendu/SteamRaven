@@ -2,12 +2,19 @@
 <sound>
   <kind>1</kind>
   <extension>.wav</extension>
-  <origname>H:\Dropbox\Dropbox\Steam Raven\Projects\ECHORaven\Raven.gmx\sound\audio\snd_track.wav</origname>
+  <origname>C:\SteamRaven\ECHORaven\Raven.gmx\sound\audio\snd_track.wav</origname>
   <effects>0</effects>
-  <volume>0.5</volume>
+  <volume>
+    <volume>0.5</volume>
+  </volume>
   <pan>0</pan>
-  <mp3BitRate>192</mp3BitRate>
+  <mp3BitRate>
+    <mp3BitRate>192</mp3BitRate>
+  </mp3BitRate>
+  <oggQuality/>
   <oggQuality>21</oggQuality>
   <preload>-1</preload>
   <data>snd_track.wav</data>
+  <compressed>0</compressed>
+  <streamed>0</streamed>
 </sound>
